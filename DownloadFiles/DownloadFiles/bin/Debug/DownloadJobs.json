@@ -1,0 +1,22 @@
+[
+	{
+		"protocol": "http",
+		"uri": "www.jatekfutar.hu/molto/molto-15419.jpg"
+	}, 
+	{
+		"protocol": "ftp",
+		"uri": "speedtest.tele2.net/1MB.zip"
+	},
+	{
+		"protocol": "sftp",
+		"uri": "test.rebex.net:22/pub/example/ConsoleClient.png",
+		"name" : "demo",
+		"password": "password"
+	},
+	{
+		"protocol": "sftp",
+		"uri": "test.rebex.net:22/readme.txt",
+		"name" : "demo",
+		"password": "password"
+	}	
+]

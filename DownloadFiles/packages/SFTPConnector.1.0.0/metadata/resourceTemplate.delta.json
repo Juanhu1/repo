@@ -1,0 +1,20 @@
+﻿{
+    "appsettings" :  {
+        "FtpServerAddress": {
+          "type": "String",
+          "defaultValue": "AzureSftpServer.cloudapp.net"
+      },
+      "FtpUserName": {
+          "type": "String",
+          "defaultValue": "azureuser"
+      },
+      "FtpPassword":{
+          "type": "SecureString",
+          "defaultValue": "Azureuser@123"  
+      }
+	  "AcceptAnySSHServerHostKey":{
+          "type": "String",
+          "defaultValue": "true"  
+      }
+    }
+}

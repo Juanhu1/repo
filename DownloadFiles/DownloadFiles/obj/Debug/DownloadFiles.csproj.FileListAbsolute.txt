@@ -1,0 +1,16 @@
+E:\DownloadFiles\DownloadFiles\bin\Debug\DownloadFiles.exe.config
+E:\DownloadFiles\DownloadFiles\obj\Debug\DownloadFiles.exe
+E:\DownloadFiles\DownloadFiles\obj\Debug\DownloadFiles.pdb
+E:\DownloadFiles\DownloadFiles\bin\Debug\DownloadFiles.exe
+E:\DownloadFiles\DownloadFiles\bin\Debug\DownloadFiles.pdb
+E:\DownloadFiles\DownloadFiles\obj\Debug\DownloadFiles.csprojResolveAssemblyReference.cache
+d:\TLegal\MyWork\DownloadFiles\DownloadFiles\bin\Debug\DownloadFiles.exe.config
+d:\TLegal\MyWork\DownloadFiles\DownloadFiles\bin\Debug\DownloadFiles.exe
+d:\TLegal\MyWork\DownloadFiles\DownloadFiles\bin\Debug\DownloadFiles.pdb
+d:\TLegal\MyWork\DownloadFiles\DownloadFiles\bin\Debug\Renci.SshNet.dll
+d:\TLegal\MyWork\DownloadFiles\DownloadFiles\bin\Debug\Renci.SshNet.xml
+d:\TLegal\MyWork\DownloadFiles\DownloadFiles\obj\Debug\DownloadFiles.csprojResolveAssemblyReference.cache
+d:\TLegal\MyWork\DownloadFiles\DownloadFiles\obj\Debug\DownloadFiles.exe
+d:\TLegal\MyWork\DownloadFiles\DownloadFiles\obj\Debug\DownloadFiles.pdb
+E:\DownloadFiles\DownloadFiles\bin\Debug\Renci.SshNet.dll
+E:\DownloadFiles\DownloadFiles\bin\Debug\Renci.SshNet.xml

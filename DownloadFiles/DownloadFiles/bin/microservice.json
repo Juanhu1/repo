@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json-schema.org/schemas/2014-11-01/microservice.json#",
+
+    "id": "SftpMicroserviceConnector",
+    "version": "1.0.0",
+    "authors": "sartson",
+    "description": "EMA BizTalk SftpMicroservice.",
+    "name": "SftpMicroserviceConnector",
+
+    "endpoints": {
+        "apiDefinition": "/swagger/api-docs/SFTPConnector"
+    }
+}

@@ -1,0 +1,10 @@
+[
+	{
+		"protocol": "http",
+		"uri": "www.jatekfutar.hu/molto/molto-15419.jpg"
+	}, 
+	{
+		"protocol": "ftp",
+		"uri": "speedtest.tele2.net/1GB.zip"
+	}
+]
